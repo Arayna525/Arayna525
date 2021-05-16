@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arayna525
 - 👀 I’m interested in ...traveling/learning/reading a great book
-- 🌱 I’m currently learning ...HTML/CSS/JS/GitHuv
+- 🌱 I’m currently learning ...HTML/CSS/JS/GitHub
 - 💞️ I’m looking to collaborate on ...Technical documents
 - 📫 How to reach me ...
 

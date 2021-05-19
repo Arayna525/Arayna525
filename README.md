@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...traveling/learning/reading a great book
 - 🌱 I’m currently learning ...HTML/CSS/JS/GitHub
 - 💞️ I’m looking to collaborate on ...Technical documents/editing/HTML code/Javascript
-- 📫 How to reach me ...
+- 📫 How to reach me ...arayna.hamilton@gmail.com
 
 <!---
 Arayna525/Arayna525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

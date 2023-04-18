@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arayna525
 - 👀 I’m interested in ...traveling/learning/reading a great book
-- 🌱 I’m currently learning ...HTML/CSS/JS/GitHub
-- 💞️ I’m looking to collaborate on ...Technical documents/editing/HTML code/Javascript
+- 🌱 I’m currently learning ...PowerBI/GitHub
+- 💞️ I’m looking to collaborate on ...Data Projects
 - 📫 How to reach me ...arayna.hamilton@gmail.com
 
 <!---
